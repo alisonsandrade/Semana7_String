@@ -1,2 +1,2 @@
-# list-generator
-Gerador de lista em javascript
+# List Generator
+Sistema gerador de lista HTML em javascript.
